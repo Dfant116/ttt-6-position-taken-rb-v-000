@@ -6,4 +6,3 @@ end
 if array[index_number] == ""
   false
 end
-
